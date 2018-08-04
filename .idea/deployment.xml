@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="tgs" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof;*.pyc;test;*png">
+    <serverData>
+      <paths name="gongsi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/sins/workspace/tgs/debug" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/sins/workspace/python35-lib/Putil" local="C:/Anaconda2/envs/python35/Lib/Putil" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tgs">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/sins/workspace/tgs" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
